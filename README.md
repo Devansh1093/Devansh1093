@@ -8,7 +8,7 @@
 
 Currently: Building projects to improve my skills and gain practical experience.
 
-# 🚀 Tech Stack
+# Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
