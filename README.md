@@ -1,13 +1,12 @@
-<h1 Hi, I'm Devansh Roy </h1>
+<h1> Hi, I'm Devansh Roy </h1>
 
  I’m passionate about:
-- Deep Learning
+- Machine Learning
 - Computer Vision
-- Digital Twins
-- Distributed Systems
-- Open Source Contributions
+- Backend System
+- 
 
-Currently: Making projects to imporve my skills
+Currently: Building projects to improve my skills and gain practical experience.
 
 # 🚀 Tech Stack
 
@@ -17,7 +16,6 @@ Currently: Making projects to imporve my skills
 
 ### AI/ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
