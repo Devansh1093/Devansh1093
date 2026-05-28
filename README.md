@@ -4,7 +4,7 @@
 - Machine Learning
 - Computer Vision
 - Backend System
-- 
+  
 
 Currently: Building projects to improve my skills and gain practical experience.
 
